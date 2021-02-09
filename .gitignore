@@ -1,0 +1,11 @@
+# python
+.idea
+*.iml
+Pipfile
+Pipfile.lock
+
+# jupyter
+.ipynb_checkpoints
+
+# tableau
+*.twbr
