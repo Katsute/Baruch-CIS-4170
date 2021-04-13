@@ -3,9 +3,16 @@
 *.iml
 Pipfile
 Pipfile.lock
+__pycache__
 
 # jupyter
 .ipynb_checkpoints
 
 # tableau
+*.twb
 *.twbr
+
+# java
+target
+out
+*.properties
