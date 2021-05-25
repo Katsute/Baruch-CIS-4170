@@ -7,12 +7,3 @@ __pycache__
 
 # jupyter
 .ipynb_checkpoints
-
-# tableau
-*.twb
-*.twbr
-
-# java
-target
-out
-*.properties
